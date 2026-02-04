@@ -1,0 +1,1 @@
+{"name":"Calculadora de Gasolina","short_name":"Gasolina","description":"Calculadora de divisão de custos de combustível","start_url":"/gasolina/","display":"standalone","background_color":"#0f172a","theme_color":"#0f172a","lang":"en","scope":"/gasolina/","icons":[{"src":"icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
